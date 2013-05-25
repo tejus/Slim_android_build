@@ -28,7 +28,6 @@ PRODUCT_PACKAGES := \
     InputDevices \
     Gallery2 \
     Music \
-    MusicFX \
     Provision \
     Phone \
     Settings \
