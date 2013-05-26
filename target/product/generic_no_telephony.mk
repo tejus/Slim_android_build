@@ -27,7 +27,6 @@ PRODUCT_PACKAGES := \
     DrmProvider \
     InputDevices \
     Gallery2 \
-    Music \
     Provision \
     Phone \
     Settings \
