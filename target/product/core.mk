@@ -31,8 +31,6 @@ PRODUCT_PACKAGES += \
     DefaultContainerService \
     Home \
     KeyChain \
-    MediaProvider \
-    PackageInstaller \
     PicoTts \
     SharedStorageBackup \
     TelephonyProvider \
@@ -47,9 +45,6 @@ PRODUCT_PACKAGES += \
     libfilterpack_imageproc \
     libgabi++ \
     libanalogradiobroadcasting \
-    libicui18n \
-    libicuuc \
-    libjavacore \
     libkeystore \
     libmdnssd \
     libnfc_ndef \
